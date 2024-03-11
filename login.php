@@ -1,7 +1,7 @@
 <?php
 $client_key = 'awo0o1vaqyqauihy';
 $client_secret = 'Zt9OS3rDXX3D6Mr2Hu6RpuWjRgD1EVdG';
-$redirect_uri = 'https://busana.com.tr/berkan.php';
+$redirect_uri = 'https://berkansaglam.com/login.php';
 
 if (isset($_GET['code'])) {
     $code = $_GET['code'];
